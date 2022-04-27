@@ -3,7 +3,7 @@ data:
   base-url: http://daniel-cf-url.ngrok.io
   ingressClassName: ""
   ingressController: ""
-  ingressHost: http://daniel-ingresshost.ngrok.io
+  ingressHost: http://daniel-runtime.csdp.codefresh.io:8081
 kind: ConfigMap
 metadata:
   creationTimestamp: null

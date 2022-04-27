@@ -6,7 +6,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: daniel-ingresshost.ngrok.io
+  - host: daniel-runtime.csdp.codefresh.io
     http:
       paths:
       - backend:
